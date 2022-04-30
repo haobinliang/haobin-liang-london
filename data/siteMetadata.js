@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'Hao have you bin? I am Haobin.',
+  author: 'Haobin Liang',
+  headerTitle: 'Haobin',
+  description: 'The tale of an failed but aspiring engineer',
   language: 'en-gb',
   theme: 'system', // system, dark or light
   siteUrl: 'https://haobin.liang.london',
