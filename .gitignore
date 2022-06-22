@@ -34,3 +34,14 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+data/blog/code-sample.md
+data/blog/deriving-ols-estimator.mdx
+data/blog/github-markdown-guide.mdx
+data/blog/guide-to-using-images-in-nextjs.mdx
+data/blog/introducing-tailwind-nextjs-starter-blog.mdx
+data/blog/my-fancy-title.md
+data/blog/new-features-in-v1.mdx
+data/blog/pictures-of-canada.mdx
+data/blog/the-time-machine.mdx
+data/blog/nested-route/introducing-multi-part-posts-with-nested-routing.md
+package-lock.json
